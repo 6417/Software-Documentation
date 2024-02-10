@@ -1,0 +1,7 @@
+site_name: '6417 Software Documentation'
+theme: 
+  name: 'material'
+nav:
+  - Software Dokumentation: 
+    - Linksammlung: software/linksammlung.md
+    - Tasks: software/tasks.md
