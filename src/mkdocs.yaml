@@ -5,4 +5,6 @@ nav:
   - Software Dokumentation: 
     - Linksammlung: software/linksammlung.md
     - Tasks: software/tasks.md
-    - Robots: software/roboter.md
+    - Robots: 
+      - 2017 : software/robots/2017.md
+      - 2024 Wilhelm-Tell : software/robots/2024.md
